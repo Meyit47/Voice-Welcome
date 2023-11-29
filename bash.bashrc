@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacki
 clear
 mpv /$HOME/Voice-Welcome/termux.mp3
 clear
-echo -e "Created By \e[5mSuman"
+echo -e "OLUŞTURAN \e[5mMEYİTZADE"
 echo "----------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
@@ -36,11 +36,11 @@ echo "                                                        _| "
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mWebSite   \e[1;91m =  \e[1;97monlinehacking.in"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTELEGRAM   \e[1;91m =  \e[1;97m@Meyit47"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@onlinehacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mCHAT   \e[1;91m =  \e[1;97m@S1F1RB1RCHAT"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@OnlineHacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTG MUZİK  \e[1;91m =  \e[1;97m@S1F1RB1RMZK"
 echo ""
 echo ''
 date | lolcat
